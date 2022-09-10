@@ -1,0 +1,33 @@
+html {
+    font-size: 15px;
+    font-family: 'Oswald', sans-serif;
+    background-color: blanchedalmond;
+}
+
+body {
+    position: relative;
+    width: 500px;
+    height: 600px; 
+    margin: 0 auto;
+    background-color: azure;
+    padding: 20px 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2px;
+    letter-spacing: 1px;
+}
+
+img {
+    display:block;
+    margin: auto;
+}
